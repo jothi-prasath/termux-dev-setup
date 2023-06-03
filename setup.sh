@@ -30,7 +30,7 @@ pkg install $packages -y
 if [ -f ~/.bashrc ]; then
     # Search for the sshd entry in .bashrc
     if grep -q "sshd" ~/.bashrc; then
-        break
+        echo "sshd entry found in .bashrc"
     else
         echo "sshd" >> .bashrc
     fi
