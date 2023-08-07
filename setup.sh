@@ -33,3 +33,6 @@ if ! grep -q "$sshd_entry" "$bashrc_path"; then
 else
     echo "sshd entry already exists in .bashrc"
 fi
+
+# Removing termux welcome message 
+rm $PREFIX/etc/motd
