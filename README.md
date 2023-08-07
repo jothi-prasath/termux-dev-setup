@@ -6,7 +6,7 @@ It updates and upgrades packages and installs various useful tools and dependenc
 ## Table of Contents
 - [What is Termux](#what-is-termux)
 - [Why Termux](#why-termux)
-- [What Can I Do With This](#what-can-you-do-with-this)
+- [What Can You Do With This](#what-can-you-do-with-this)
 - [Requirements](#requirements)
 - [Quick Setup](#quick-setup)
 - [Manual Setup](#manual-setup)
